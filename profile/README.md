@@ -8,9 +8,9 @@
 
 ## 🧠 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Effectiveness of Balancing Dataset on Classification](https://github.com/AI-Collective-Lab/Effectiveness-Of-Balancing-Dataset-On-Classification) | Measures how balancing a dataset affects classification performance | Python · Jupyter |
+| Project | What it is | Stack | Team |
+|---|---|---|---|
+| [Effectiveness of Balancing Dataset on Classification](https://github.com/AI-Collective-Lab/Effectiveness-Of-Balancing-Dataset-On-Classification) | Measures how balancing a dataset affects classification performance | Python · Jupyter | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) · [@munahilamin03](https://github.com/munahilamin03) |
 
 ## 🤝 Contributing
 
