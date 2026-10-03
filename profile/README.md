@@ -27,16 +27,16 @@ Two manuscripts currently under submission. Results are from the submitted versi
 | **Multi-Objective Selection of Hybrid Deep–Radiomic Features for Brain Tumor MRI Classification with Transparent Fuzzy Rule-Based Inference**<br><sub>A three-objective search (an opposition-based Harris Hawks extension of NSGA-II) cuts 2,420 hybrid deep + radiomic features to 25; a neuro-fuzzy ANFIS classifier then explains each decision with readable if–then rules.</sub> | 📨 Submitted · *Information Fusion* (Elsevier) · Aug 2026 | **Muhammad Azeem Bhatti**, Khadija Tul Kubra, Umme Zahoora, Tanja Pavleska, Asifullah Khan | Accuracy 94.45% · macro F1 0.938 · 25 of 2,420 features |
 | **A Privacy-Preserving Federated Learning Framework with Variance-Based Aggregation and Customized U-Net for Brain Tumor Segmentation**<br><sub>Trains a lightweight attention U-Net across hospitals without moving any scans; a new aggregation method, Fed-PLM, merges site updates along their direction of greatest variation.</sub> | 📨 Submitted · *Frontiers* | Sumer Iqbal, Khadija Tul Kubra, **Muhammad Azeem Bhatti**, Farquleet Farhat Gondal, Saddam Hussain Khan, Umme Zahoora | Whole-tumour Dice 0.885 federated vs 0.894 centralised (BraTS 2021) |
 
-## 💼 Client work
+## 💼 Industry work: internship at Golden Gate Innovations
 
 <img src="assets/ggi-logo.png" alt="Golden Gate Innovations" height="44">
 
-Three projects for our client **Golden Gate Innovations**: two delivered, one in progress. The code and data belong to the client, so only a summary of each is shown here.
+Projects [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) has built as an intern at **Golden Gate Innovations**: two delivered, one in progress. The code and data belong to Golden Gate Innovations, so only a summary of each is shown here.
 
-| Project | What it does | Status | Team |
+| Project | What it does | Status | Built by |
 |---|---|---|---|
 | **K-Electric meter reading** | Reads electricity meters from field photos: finds the display, straightens it and reads the digits several times; agreeing reads are accepted automatically, the rest go to a person | 🟡 In progress | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
-| **Urdu-English meeting transcription** | Transcribes meetings that switch between Urdu and English mid-sentence, then writes a summary with action items; audio stays on the client's infrastructure | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
+| **Urdu-English meeting transcription** | Transcribes meetings that switch between Urdu and English mid-sentence, then writes a summary with action items; audio never leaves the company's own servers | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 | **OSINT news monitor** | Collects public news, Reddit threads and government press releases; an LLM tags each item by topic and stance for analysts to review | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 
 ## 🤝 Contributing
