@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="AI Collective Lab" width="100%">
 </p>
 
-<h3 align="center">A collective of builders working on machine learning and AI projects.</h3>
+<h3 align="center">Collaborative AI & ML projects — from research experiments to deep learning systems.</h3>
 
 ---
 
