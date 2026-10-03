@@ -20,12 +20,12 @@
 
 ## 📄 Ongoing research
 
-Two manuscripts currently under submission. Results are from the submitted versions and may change in review.
+Two manuscripts currently under submission. **All of our research is carried out under the supervision of Dr. Umme Zahoora.** Results are from the submitted versions and may change in review.
 
 | Paper | Status | Authors | Key results |
 |---|---|---|---|
-| **Multi-Objective Selection of Hybrid Deep–Radiomic Features for Brain Tumor MRI Classification with Transparent Fuzzy Rule-Based Inference**<br><sub>A three-objective search (an opposition-based Harris Hawks extension of NSGA-II) cuts 2,420 hybrid deep + radiomic features to 25; a neuro-fuzzy ANFIS classifier then explains each decision with readable if–then rules.</sub> | 📨 Submitted · *Information Fusion* (Elsevier) · Aug 2026 | **Muhammad Azeem Bhatti**, Khadija Tul Kubra, Umme Zahoora, Tanja Pavleska, Asifullah Khan | Accuracy 94.45% · macro F1 0.938 · 25 of 2,420 features |
-| **A Privacy-Preserving Federated Learning Framework with Variance-Based Aggregation and Customized U-Net for Brain Tumor Segmentation**<br><sub>Trains a lightweight attention U-Net across hospitals without moving any scans; a new aggregation method, Fed-PLM, merges site updates along their direction of greatest variation.</sub> | 📨 Submitted · *Frontiers* | Sumer Iqbal, Khadija Tul Kubra, **Muhammad Azeem Bhatti**, Farquleet Farhat Gondal, Saddam Hussain Khan, Umme Zahoora | Whole-tumour Dice 0.885 federated vs 0.894 centralised (BraTS 2021) |
+| **Multi-Objective Selection of Hybrid Deep–Radiomic Features for Brain Tumor MRI Classification with Transparent Fuzzy Rule-Based Inference**<br><sub>A three-objective search (an opposition-based Harris Hawks extension of NSGA-II) cuts 2,420 hybrid deep + radiomic features to 25; a neuro-fuzzy ANFIS classifier then explains each decision with readable if–then rules.</sub> | 📨 Submitted · *Information Fusion* (Elsevier) · Aug 2026 | **[Muhammad Azeem Bhatti](https://github.com/Muhammad-Azeem-Bhatti)**, Khadija Tul Kubra, Umme Zahoora, Tanja Pavleska, Asifullah Khan | Accuracy 94.45% · macro F1 0.938 · 25 of 2,420 features |
+| **A Privacy-Preserving Federated Learning Framework with Variance-Based Aggregation and Customized U-Net for Brain Tumor Segmentation**<br><sub>Trains a lightweight attention U-Net across hospitals without moving any scans; a new aggregation method, Fed-PLM, merges site updates along their direction of greatest variation.</sub> | 📨 Submitted · *Frontiers* | Sumer Iqbal, Khadija Tul Kubra, **[Muhammad Azeem Bhatti](https://github.com/Muhammad-Azeem-Bhatti)**, Farquleet Farhat Gondal, Saddam Hussain Khan, Umme Zahoora | Whole-tumour Dice 0.885 federated vs 0.894 centralised (BraTS 2021) |
 
 ## 💼 Industry work: internship at Golden Gate Innovations
 
