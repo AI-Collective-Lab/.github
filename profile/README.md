@@ -14,6 +14,8 @@
 
 | Project | What it is | Stack | Team |
 |---|---|---|---|
+| [LatentGAT](https://github.com/AI-Collective-Lab/latentgat-training-dashboard) · [research pages](https://ai-collective-lab.github.io/latentgat-training-dashboard/) | Brain tumour segmentation: a 3D U-Net with a graph-attention bottleneck, tested on three unseen cohorts | PyTorch · HTML | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
+| [HIGGS ML Classification](https://github.com/AI-Collective-Lab/HIGGS-ML-Classification) | Logistic regression vs. a neural network on the 11M-event HIGGS dataset, with a data-scaling study | Python · Jupyter | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) · [@munahilamin03](https://github.com/munahilamin03) · [@zainulaabaidin](https://github.com/zainulaabaidin) |
 | [Effectiveness of Balancing Dataset on Classification](https://github.com/AI-Collective-Lab/Effectiveness-Of-Balancing-Dataset-On-Classification) | Measures how balancing a dataset affects classification performance | Python · Jupyter | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) · [@munahilamin03](https://github.com/munahilamin03) · [@zainulaabaidin](https://github.com/zainulaabaidin) |
 
 ## 🤝 Contributing
