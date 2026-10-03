@@ -39,6 +39,17 @@ Projects [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) has 
 | **Urdu-English meeting transcription** | Transcribes meetings that switch between Urdu and English mid-sentence, then writes a summary with action items; audio never leaves the company's own servers | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 | **OSINT news monitor** | Collects public news, Reddit threads and government press releases; an LLM tags each item by topic and stance for analysts to review | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 
+## 👥 Members
+
+Each member has a portfolio page with their projects, papers and role on each.
+
+<table><tr>
+<td align="center"><a href="https://ai-collective-lab.github.io/portfolio-muhammad-azeem-bhatti/"><img src="https://github.com/Muhammad-Azeem-Bhatti.png?size=120" width="64" height="64" alt=""><br><b>Muhammad Azeem Bhatti</b></a><br><sub>Founder</sub></td>
+<td align="center"><a href="https://ai-collective-lab.github.io/portfolio-munahilamin03/"><img src="https://github.com/munahilamin03.png?size=120" width="64" height="64" alt=""><br><b>@munahilamin03</b></a><br><sub>Member</sub></td>
+<td align="center"><a href="https://ai-collective-lab.github.io/portfolio-zainulaabaidin/"><img src="https://github.com/zainulaabaidin.png?size=120" width="64" height="64" alt=""><br><b>Zain Ul Aabaidin</b></a><br><sub>Member</sub></td>
+<td align="center"><a href="https://ai-collective-lab.github.io/portfolio-sumer238/"><img src="https://github.com/Sumer238.png?size=120" width="64" height="64" alt=""><br><b>Sumer Iqbal</b></a><br><sub>Member</sub></td>
+</tr></table>
+
 ## 🤝 Contributing
 
 Each project has its own team. Open an issue in the project's repository to get involved.
