@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ai-collective-lab.github.io"><img src="assets/banner.png" alt="AI Collective Lab" width="100%"></a>
+  <a href="https://ai-collective-lab.github.io"><img src="assets/banner.png" alt="AI Collective" width="100%"></a>
 </p>
 
-<h3 align="center">Collaborative AI & ML projects — from research experiments to deep learning systems.</h3>
+<h3 align="center">An independent research collective: AI & ML projects built together, from research experiments to deep learning systems.</h3>
 
 <p align="center">
-  <a href="https://ai-collective-lab.github.io"><img src="https://img.shields.io/badge/Website-ai--collective--lab.github.io-1f6fe0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the AI Collective Lab website"></a>
+  <a href="https://ai-collective-lab.github.io"><img src="https://img.shields.io/badge/Website-ai--collective--lab.github.io-1f6fe0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the AI Collective website"></a>
 </p>
 
 ---
