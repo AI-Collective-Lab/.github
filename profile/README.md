@@ -35,7 +35,7 @@ Projects [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) has 
 
 | Project | What it does | Status | Built by |
 |---|---|---|---|
-| **K-Electric meter reading** | Reads electricity meters from field photos: finds the display, straightens it and reads the digits with five models that vote (98.2% exact on 606 held-out crops); agreeing reads are accepted automatically, the rest go to a person or a retake | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
+| **K-Electric meter reading** | Reads electricity meters from field photos: finds the display, straightens it and reads the digits with five models that vote (98.2% exact on 606 held-out crops); agreeing reads are accepted automatically, the rest go to a person or a retake. [How it was built (PDF)](https://ai-collective-lab.github.io/assets/k-electric-cv-pipeline.pdf) | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 | **Urdu-English meeting transcription** | Transcribes meetings that switch between Urdu and English mid-sentence, then writes a summary with action items; audio never leaves the company's own servers | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 | **OSINT news monitor** | Collects public news, Reddit threads and government press releases; an LLM tags each item by topic and stance for analysts to review | 🟢 Delivered | [@Muhammad-Azeem-Bhatti](https://github.com/Muhammad-Azeem-Bhatti) |
 
